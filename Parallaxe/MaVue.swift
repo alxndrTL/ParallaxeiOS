@@ -12,7 +12,6 @@ class MaVue: UIView {
     
     private let label = UILabel()
 
-    
     override init(frame: CGRect) {
         super.init(frame: frame)
         

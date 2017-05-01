@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view = MaVue(frame: UIScreen.main.bounds)
         self.view.backgroundColor = UIColor.white
+        
+        print("new commit")
     }
 
     override func didReceiveMemoryWarning() {

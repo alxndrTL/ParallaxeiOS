@@ -12,6 +12,8 @@
 		ACDDAAEA1E9CFA9F00DACAFC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACDDAAE81E9CFA9F00DACAFC /* Main.storyboard */; };
 		ACDDAAEC1E9CFA9F00DACAFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACDDAAEB1E9CFA9F00DACAFC /* Assets.xcassets */; };
 		ACDDAAEF1E9CFA9F00DACAFC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACDDAAED1E9CFA9F00DACAFC /* LaunchScreen.storyboard */; };
+		ACDDAAF71E9CFAC000DACAFC /* MaVue.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDDAAF61E9CFAC000DACAFC /* MaVue.swift */; };
+		ACDDAAF91E9CFCC700DACAFC /* alexou.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACDDAAF81E9CFCC700DACAFC /* alexou.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		ACDDAAEB1E9CFA9F00DACAFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACDDAAEE1E9CFA9F00DACAFC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACDDAAF01E9CFA9F00DACAFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACDDAAF61E9CFAC000DACAFC /* MaVue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaVue.swift; sourceTree = "<group>"; };
+		ACDDAAF81E9CFCC700DACAFC /* alexou.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = alexou.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +60,12 @@
 			children = (
 				ACDDAAE41E9CFA9F00DACAFC /* AppDelegate.swift */,
 				ACDDAAE61E9CFA9F00DACAFC /* ViewController.swift */,
+				ACDDAAF61E9CFAC000DACAFC /* MaVue.swift */,
 				ACDDAAE81E9CFA9F00DACAFC /* Main.storyboard */,
 				ACDDAAEB1E9CFA9F00DACAFC /* Assets.xcassets */,
 				ACDDAAED1E9CFA9F00DACAFC /* LaunchScreen.storyboard */,
 				ACDDAAF01E9CFA9F00DACAFC /* Info.plist */,
+				ACDDAAF81E9CFCC700DACAFC /* alexou.jpg */,
 			);
 			path = Parallaxe;
 			sourceTree = "<group>";
@@ -127,6 +133,7 @@
 				ACDDAAEF1E9CFA9F00DACAFC /* LaunchScreen.storyboard in Resources */,
 				ACDDAAEC1E9CFA9F00DACAFC /* Assets.xcassets in Resources */,
 				ACDDAAEA1E9CFA9F00DACAFC /* Main.storyboard in Resources */,
+				ACDDAAF91E9CFCC700DACAFC /* alexou.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACDDAAE71E9CFA9F00DACAFC /* ViewController.swift in Sources */,
+				ACDDAAF71E9CFAC000DACAFC /* MaVue.swift in Sources */,
 				ACDDAAE51E9CFA9F00DACAFC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         self.view = MaVue(frame: UIScreen.main.bounds)
         self.view.backgroundColor = UIColor.white
         
-        print("new commit 6 ! third branch ")
+        print("new commit 7 ! third branch ")
     }
 
     override func didReceiveMemoryWarning() {

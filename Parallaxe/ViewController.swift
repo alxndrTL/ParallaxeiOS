@@ -3,7 +3,7 @@
 //  Parallaxe
 //
 //  Created by Alexandre Torres on 11/04/2017.
-//  Copyright © 2017 Alexandre Torres. All rights reserved.
+//  Copyright © 2017-2018 Alexandre Torres. All rights reserved.
 //
 
 import UIKit

@@ -27,6 +27,10 @@ class ViewController: UIViewController {
         let v = self.view as! MaVue
         v.display(size: size)
     }
+    
+    func newBranchTest(){
+        print("Cette fonction fait partie de la branche newBranch du repo Parallaxe")
+    }
 
 
 }

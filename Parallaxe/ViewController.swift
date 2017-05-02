@@ -28,6 +28,10 @@ class ViewController: UIViewController {
         v.display(size: size)
     }
 
+    
+    func f(){
+        print("Voici la quatrième branche ! magnifique, hein ?")
+    }
 
 }
 

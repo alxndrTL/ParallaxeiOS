@@ -14,8 +14,6 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         self.view = MaVue(frame: UIScreen.main.bounds)
         self.view.backgroundColor = UIColor.white
-        
-        print("new commit 9 ! third branch ")
     }
 
     override func didReceiveMemoryWarning() {
@@ -30,6 +28,10 @@ class ViewController: UIViewController {
         v.display(size: size)
     }
 
+    
+    func f(){
+        print("Voici la quatrième branche ! magnifique, hein ?")
+    }
 
 }
 
